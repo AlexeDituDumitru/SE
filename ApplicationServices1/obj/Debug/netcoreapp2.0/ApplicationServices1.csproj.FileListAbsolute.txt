@@ -1,0 +1,9 @@
+C:\Users\mihae\Desktop\LabManagement\ApplicationServices1\bin\Debug\netcoreapp2.0\ApplicationServices1.deps.json
+C:\Users\mihae\Desktop\LabManagement\ApplicationServices1\bin\Debug\netcoreapp2.0\ApplicationServices1.dll
+C:\Users\mihae\Desktop\LabManagement\ApplicationServices1\bin\Debug\netcoreapp2.0\ApplicationServices1.pdb
+C:\Users\mihae\Desktop\LabManagement\ApplicationServices1\obj\Debug\netcoreapp2.0\ApplicationServices1.csprojResolveAssemblyReference.cache
+C:\Users\mihae\Desktop\LabManagement\ApplicationServices1\obj\Debug\netcoreapp2.0\ApplicationServices1.csproj.CoreCompileInputs.cache
+C:\Users\mihae\Desktop\LabManagement\ApplicationServices1\obj\Debug\netcoreapp2.0\ApplicationServices1.AssemblyInfoInputs.cache
+C:\Users\mihae\Desktop\LabManagement\ApplicationServices1\obj\Debug\netcoreapp2.0\ApplicationServices1.AssemblyInfo.cs
+C:\Users\mihae\Desktop\LabManagement\ApplicationServices1\obj\Debug\netcoreapp2.0\ApplicationServices1.dll
+C:\Users\mihae\Desktop\LabManagement\ApplicationServices1\obj\Debug\netcoreapp2.0\ApplicationServices1.pdb
