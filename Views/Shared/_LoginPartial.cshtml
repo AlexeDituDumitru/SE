@@ -1,0 +1,54 @@
+@using Microsoft.AspNetCore.Identity
+@using test.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+    @if (Context.User.IsInRole("Admin"))
+    {
+        <br> </br>
+        <li>
+            @Html.ActionLink("Students", "Index", "Students")
+            @Html.ActionLink("Teachers", "Index", "Teachers")
+        </li>
+    }
+    @if (Context.User.IsInRole("Teacher"))
+    {
+        <br> </br>
+        <li>
+            @Html.ActionLink("Labs", "Index", "Labs")
+            @Html.ActionLink("Student", "Index", "Teacher/TeacherStudents")
+            @Html.ActionLink("Attendance", "Index", "Teacher/Attendance")
+            @Html.ActionLink("Messages", "Index", "Teacher/TeacherMessages")
+        </li>
+    }
+
+    @if (Context.User.IsInRole("Student"))
+    {
+        <br> </br>
+        <li>
+            @Html.ActionLink("Account Information", "Index", "Student/AccountInfo")
+            @Html.ActionLink("Messages", "Index", "Student/StudentMessages")
+        </li>
+    }
+
+    <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" id="logoutForm" class="navbar-right">
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a asp-area="" asp-controller="Manage" asp-action="Index" title="Manage">Hello @UserManager.GetUserName(User)!</a>
+            </li>
+            <li>
+                <button type="submit" class="btn btn-link navbar-btn navbar-link">Log out</button>
+            </li>
+        </ul>
+    </form>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li><a asp-area="" asp-controller="Account" asp-action="Register">Register</a></li>
+        <li><a asp-area="" asp-controller="Account" asp-action="Login">Log in</a></li>
+    </ul>
+}
