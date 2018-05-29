@@ -1,0 +1,14 @@
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\obj\Debug\netcoreapp2.0\ApplicationModel.csprojResolveAssemblyReference.cache
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\obj\Debug\netcoreapp2.0\ApplicationModel.csproj.CoreCompileInputs.cache
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\obj\Debug\netcoreapp2.0\ApplicationModel.AssemblyInfoInputs.cache
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\obj\Debug\netcoreapp2.0\ApplicationModel.AssemblyInfo.cs
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\bin\Debug\netcoreapp2.0\ApplicationModel.deps.json
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\bin\Debug\netcoreapp2.0\ApplicationModel.dll
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\bin\Debug\netcoreapp2.0\ApplicationModel.pdb
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\bin\Debug\netcoreapp2.0\ApplicationServices1.dll
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\bin\Debug\netcoreapp2.0\test.dll
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\bin\Debug\netcoreapp2.0\ApplicationServices1.pdb
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\bin\Debug\netcoreapp2.0\test.pdb
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\obj\Debug\netcoreapp2.0\ApplicationModel.csproj.CopyComplete
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\obj\Debug\netcoreapp2.0\ApplicationModel.dll
+C:\Users\mihae\Desktop\LabManagement\ApplicationModel\obj\Debug\netcoreapp2.0\ApplicationModel.pdb
